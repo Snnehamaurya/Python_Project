@@ -1,7 +1,7 @@
 ****🐍 Telecom Churn Analysis Using Python****
 
 
-Welcome to the Python_Project repository! This project showcases various Python scripts and small utilities designed to solve real-world problems and practice programming fundamentals.
+Welcome to the Telecom Churn Analysis repository! This project showcases various Python scripts and small utilities designed to solve real-world problems and practice programming fundamentals.
 
 **🧩 What’s Inside**
 
